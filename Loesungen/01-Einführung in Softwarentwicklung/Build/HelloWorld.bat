@@ -1,0 +1,1 @@
+csc /t:exe ..\Source\HelloWorld\Program.cs
