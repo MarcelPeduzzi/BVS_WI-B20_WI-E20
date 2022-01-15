@@ -8,7 +8,7 @@ namespace ExampleListen
     {
         static void Main(string[] args)
         {
-            //ExampleListenIdentischerDatentyp();
+            ExampleListenIdentischerDatentyp();
             ExampleListenUnterschiedlicherDatentyp();
         }
 
